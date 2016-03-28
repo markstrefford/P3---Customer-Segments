@@ -1,0 +1,6 @@
+
+*.xml
+
+.idea/P3 - Customer Segments.iml
+
+.ipynb_checkpoints/customer_segments-checkpoint.ipynb
